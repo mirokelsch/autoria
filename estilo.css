@@ -1,0 +1,39 @@
+body{
+	font-family: 'Roboto', sans-serif;
+	background: #2bad7b;
+}
+.container-form{
+	width: 400px;
+	display: table;
+	margin: 10% auto;
+	padding: 50px 30px;
+	box-shadow: 1px 2px 5px 1px #777777;
+	background: #FFF;
+}
+.row{
+	display: table;
+	width: 100%;
+}
+form label{
+	margin-bottom: 7px;
+	display: block;
+}
+form input{
+	width: 100%;
+	display: block;
+	margin-bottom: 10px;
+	height: 25px;
+	outline: none;
+}
+form button{
+	background: #194690;
+	color: #FFF;
+	padding: 5px 10px;
+	border: 0;
+	display: inline-block;
+	margin: 10px 0 0 0 0;
+	font-size: 12px;
+	text-transform: uppercase;
+	margin-right: 5px;
+	cursor: pointer;
+}
